@@ -13,6 +13,10 @@ This contains about the basics of android, history, versions, features, advantag
 
 ### Threading / Multithreading in Android
 * Slidenerd Videos - https://www.youtube.com/watch?v=A0PAhoHzlsQ&t=2s
+
+### Thread, Looper & Handler in Android
+* Slidenerd Videos (179 - 182) - https://www.youtube.com/watch?v=LJ_pUlWzGsc
+
 ### Android useful courses
 * Android App Development Essential Training from Linkedin.
 
