@@ -13,3 +13,7 @@ This contains about the basics of android, history, versions, features, advantag
 
 ### Threading / Multithreading in Android
 * Slidenerd Videos - https://www.youtube.com/watch?v=A0PAhoHzlsQ&t=2s
+### Android useful courses
+* Android App Development Essential Training from Linkedin.
+
+  https://www.linkedin.com/learning/android-app-development-essential-training-2015/
