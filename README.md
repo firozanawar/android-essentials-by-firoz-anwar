@@ -12,7 +12,7 @@ This contains about the basics of android, history, versions, features, advantag
 
 
 ### Threading / Multithreading in Android
-* Slidenerd Videos - https://www.youtube.com/watch?v=A0PAhoHzlsQ&t=2s
+* Slidenerd Videos (172 - 178)- https://www.youtube.com/watch?v=A0PAhoHzlsQ&t=2s
 
 ### AsyncTask in Android
 * https://developer.android.com/reference/android/os/AsyncTask.html
